@@ -11,7 +11,7 @@ bot.on('text', ({ reply }) => reply('Hey there!'))
 
 // Set telegram webhook
 // npm install -g localtunnel && lt --port 3000
-bot.telegram.setWebhook('http://tripiobot-c6a75deb-1.b16db5f4.cont.dockerapp.io:1337/telegramBot')
+bot.telegram.setWebhook('https://bot.trip.io/telegramBot')
 
 
 module.exports = strapi => {
