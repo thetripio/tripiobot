@@ -10,7 +10,6 @@ module.exports = strapi => {
         ? bot.handleUpdate(ctx.request.body, ctx.response)
         : next()
       )
-
       cb();
     }
   };
