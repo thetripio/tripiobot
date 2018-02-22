@@ -1,0 +1,17 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-mongoose",
+      "settings": {
+        "client": "mongo",
+        "host": "159.65.140.235",
+        "port": 27017,
+        "database": "tripiobot",
+        "username": "tripiobot",
+        "password": "asdfasdf"
+      },
+      "options": {}
+    }
+  }
+}
