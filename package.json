@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "lodash": "4.x.x",
+    "micro-bot": "^2.2.2",
     "strapi": "3.0.0-alpha.10.1",
     "strapi-mongoose": "3.0.0-alpha.10.1",
     "telegraf": "^3.18.0"
