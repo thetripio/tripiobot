@@ -1,7 +1,6 @@
 const koaBody = require('koa-body')
 const bot = require('./bot')
 
-
 module.exports = strapi => {
   return {
     initialize: function(cb) {
