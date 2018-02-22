@@ -2,6 +2,7 @@
   "timeout": 100,
   "load": {
     "before": [
+      "telegramBot",
       "responseTime",
       "logger",
       "cors",
