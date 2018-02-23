@@ -4,9 +4,9 @@ ADD . /app
 
 WORKDIR /app
 
-RUN npm install
-
 RUN apk update && apk add git
+
+RUN npm install
 
 EXPOSE 1337
 
