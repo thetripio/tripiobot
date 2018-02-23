@@ -1,7 +1,7 @@
 {
   "myCustomConfiguration": "This configuration is accessible through strapi.config.environments.development.myCustomConfiguration",
   "telegramBot": {
-    "enabled": true
+    "enabled": false
   },
   "bodyParser": {
     "enabled": false
