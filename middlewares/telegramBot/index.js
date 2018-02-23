@@ -1,9 +1,5 @@
-var contentType = require('content-type')
-var getRawBody = require('raw-body')
-const koaBody = require('koa-body')
+
 const bot = require('./bot.js')
-const multer = require('koa-multer');
-const parse = require('co-body');
 
 module.exports = strapi => {
 
