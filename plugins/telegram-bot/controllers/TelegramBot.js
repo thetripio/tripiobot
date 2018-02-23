@@ -42,7 +42,7 @@ module.exports = {
 
     // Send 200 `ok`
     bot.handleUpdate (ctx.request.body, ctx.response)
-    // console.log(ctx.request.body)
+    console.log(ctx.request.body)
     // ctx.send(ctx);
   }
 };
