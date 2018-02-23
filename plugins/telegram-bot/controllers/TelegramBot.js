@@ -17,7 +17,7 @@ const parse = require('co-body');
 // bot.command('image', (ctx) => ctx.replyWithPhoto({ url: 'https://picsum.photos/200/300/?random' }))
 
 bot.telegram.setWebhook('https://bot.trip.io/telegram-bot/webhook')
-
+console.log('ok')
 bot.hears('yo', ({reply}) => {
 
   reply('Hey there!')
@@ -43,6 +43,6 @@ module.exports = {
     // Send 200 `ok`
     bot.handleUpdate (ctx.request.body, ctx.response)
     console.log(ctx.request.body)
-    // ctx.send(ctx);
+    ctx.send('ok');
   }
 };
