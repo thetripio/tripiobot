@@ -16,8 +16,7 @@ const parse = require('co-body');
 // Details: https://github.com/telegraf/telegraf/issues/294
 // bot.command('image', (ctx) => ctx.replyWithPhoto({ url: 'https://picsum.photos/200/300/?random' }))
 
-bot.telegram.setWebhook('https://bot.trpio.io/telegram-bot/webhook')
-
+bot.telegram.setWebhook('https://bot.trip.io/telegram-bot/webhook')
 
 bot.hears('yo', ({reply}) => {
 
