@@ -1,10 +1,12 @@
 let bot = require('../bot')
-bot.telegram.setWebhook('https://bot.trip.io/telegram-bot/webhook')
+bot.telegram.setWebhook('https://qrfucchcns.localtunnel.me/telegram-bot/webhook')
 
 module.exports = {
   webhook: async ctx => {
-    bot.handleUpdate(ctx.request.body, ctx.response)
-    console.log(ctx.request.body)
-    ctx.send('ok')
+    await  bot.handleUpdate(ctx.request.body, ctx.response)
+    console.log(ctx.response)
+    if(ctx.response.body==undefined){
+      ctx.send('boring')
+    }
   }
 }
