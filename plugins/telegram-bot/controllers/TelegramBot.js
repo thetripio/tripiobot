@@ -1,5 +1,5 @@
 let bot = require('../bot')
-bot.telegram.setWebhook('https://qrfucchcns.localtunnel.me/telegram-bot/webhook')
+bot.telegram.setWebhook('https://bot.trip.io/telegram-bot/webhook')
 
 module.exports = {
   webhook: async ctx => {
