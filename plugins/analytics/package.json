@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/strapi-plugin-analytics/-/strapi-plugin-analytics-0.0.2.tgz",
   "_shasum": "7411f27291d1cc81f462ff80bb9defa867256c0d",
   "_spec": "strapi-plugin-analytics@alpha",
-  "_where": "/Users/kinhunt/WebstormProjects/Tripiobot",
+  "_where": "/private/tmp/Tripiobot",
   "author": {
     "name": "Strapi team",
     "email": "hi@strapi.io",

@@ -19,19 +19,9 @@
     "eslint-plugin-react": "^6.8.0"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "co-body": "^5.1.1",
-    "jsonwebtoken": "^8.1.1",
-    "koa": "^2.5.0",
     "lodash": "4.x.x",
-    "micro-bot": "^2.2.2",
-    "purest": "^3.1.0",
-    "raw-body": "^2.3.2",
-    "request": "^2.83.0",
-    "sendmail": "^1.2.0",
     "strapi": "3.0.0-alpha.10.1",
-    "strapi-mongoose": "3.0.0-alpha.10.1",
-    "telegraf": "^3.18.0"
+    "strapi-mongoose": "3.0.0-alpha.10.1"
   },
   "author": {
     "name": "kinhunt",
@@ -46,7 +36,7 @@
     }
   ],
   "strapi": {
-    "uuid": "7a020cdb-a0db-46ad-8526-311b3f1104ce"
+    "uuid": "0b5b3c82-9267-4fd2-93e0-f5ea9480007d"
   },
   "engines": {
     "node": ">= 7.0.0",

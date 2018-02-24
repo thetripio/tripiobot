@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/strapi-plugin-email/-/strapi-plugin-email-3.0.0-alpha.10.2.tgz",
   "_shasum": "7daceb56eb3482e84664f6a23e789669f7b02ec2",
   "_spec": "strapi-plugin-email@alpha",
-  "_where": "/Users/kinhunt/WebstormProjects/Tripiobot",
+  "_where": "/private/tmp/Tripiobot",
   "author": {
     "name": "Strapi team",
     "email": "hi@strapi.io",

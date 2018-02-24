@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/strapi-plugin-content-type-builder/-/strapi-plugin-content-type-builder-3.0.0-alpha.10.2.tgz",
   "_shasum": "6927c9355d7559488cbe76e7457a29337d6e22a2",
   "_spec": "strapi-plugin-content-type-builder@alpha",
-  "_where": "/Users/kinhunt/WebstormProjects/Tripiobot",
+  "_where": "/private/tmp/Tripiobot",
   "author": {
     "name": "Strapi team",
     "email": "hi@strapi.io",

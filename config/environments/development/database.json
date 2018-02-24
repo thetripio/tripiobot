@@ -5,8 +5,8 @@
       "connector": "strapi-mongoose",
       "settings": {
         "client": "mongo",
-        "host": "159.65.140.235",
-        "port": 27017,
+        "host": "lotapi.com",
+        "port": "37017",
         "database": "tripiobot",
         "username": "tripiobot",
         "password": "asdfasdf"

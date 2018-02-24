@@ -2,7 +2,6 @@
   "timeout": 100,
   "load": {
     "before": [
-
       "responseTime",
       "logger",
       "cors",
@@ -10,14 +9,11 @@
       "gzip"
     ],
     "order": [
-      "bodyParser"
-
+      "Define the middlewares' load order by putting their name in this array is the right order"
     ],
     "after": [
       "parser",
-      "telegramBot",
       "router"
-
     ]
   }
 }

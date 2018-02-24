@@ -35,13 +35,6 @@
     }
   },
   {
-    "id": "telegram-bot",
-    "source": {
-      "development": "/telegram-bot/main.js",
-      "production": "/telegram-bot/main.js"
-    }
-  },
-  {
     "id": "users-permissions",
     "source": {
       "development": "/users-permissions/main.js",

@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/strapi-plugin-users-permissions/-/strapi-plugin-users-permissions-3.0.0-alpha.10.2.tgz",
   "_shasum": "2ca5520b4a11d4facba1beea20a48d74e5d658cd",
   "_spec": "strapi-plugin-users-permissions@alpha",
-  "_where": "/Users/kinhunt/WebstormProjects/Tripiobot",
+  "_where": "/private/tmp/Tripiobot",
   "author": {
     "name": "Strapi team",
     "email": "hi@strapi.io",
