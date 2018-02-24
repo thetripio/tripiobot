@@ -6,7 +6,7 @@ const removeLinks = {
       console.log(message)
       let member =  await ctx.getChatMember(message.from.id)
       let isAdmin = (member.status == "creator") || (member.status == "administrator")
-      if(!isAdmin && message.text){
+      if(!isAdmin){
         if(message.entities){
           let hasUrl = false
           for(let entity of message.entities){
