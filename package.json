@@ -26,7 +26,8 @@
     "request": "^2.83.0",
     "sendmail": "^1.2.0",
     "strapi": "3.0.0-alpha.10.1",
-    "strapi-mongoose": "3.0.0-alpha.10.1"
+    "strapi-mongoose": "3.0.0-alpha.10.1",
+    "telegraf": "^3.18.0"
   },
   "author": {
     "name": "kinhunt",
