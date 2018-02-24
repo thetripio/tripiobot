@@ -1,3 +1,4 @@
+
 FROM strapi/strapi
 
 ADD . /app
