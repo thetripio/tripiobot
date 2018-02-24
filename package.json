@@ -22,6 +22,7 @@
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^8.1.1",
     "lodash": "4.x.x",
+    "purest": "^3.1.0",
     "request": "^2.83.0",
     "sendmail": "^1.2.0",
     "strapi": "3.0.0-alpha.10.1",
